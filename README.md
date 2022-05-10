@@ -62,20 +62,8 @@ essa ultima função server para voce ver a versão atual da biblioteca!
 aqui em baixo tem algums exemplos em imagems, de como é a barra de progresso em execução!
 
 # Como baixar e importar
-Para fazer a instalação voce pode acessar o site do PyPi, ou utilizar a ferramenta de instalação de modulos **pip**, basta voce executar o seguinte comando no Terminal (Linux, Windows..)
-
-```python
-pip install pgbcli (em breve)
-```
-para voce importar a biblioteca em seu codigo voce pode utilizar:
-```python
-import pgbcli
-```
-ou se voce desejar voce pode importar separadamente:
-```python
-from pgbcli import progressBar
-```
-com isso, voce ja esta preparado para utilizar o PgbCLI!
+Por enquanto, é necessário que você instale manualmente o script da Bíblioteca. Sendo assim.. você pode pegar o repositório,
+Utilizando **git clone** ou coletando o arquivo no Modo Raw.
 
 # Dependências
 Nada de mais, as únicas bibliotecas que o pgbcli utiliza são as bibliotecas padrões do Python:
